@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/pereirasec/pereirasec/main/assets/banner.svg" alt="Arthur Pereira - Cloud Security Enthusiast" width="100%"/>
+<img P
 
 <a href="https://github.com/pereirasec">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=54BB3E&center=true&vCenter=true&width=760&height=44&lines=Estudante+de+Desenvolvimento+de+Sistemas;Foco+em+Cloud+Security;An%C3%A1lise+de+Dados+%7C+LGPD+%7C+Pesquisa;Cloud+Security+Enthusiast+%7C+Data+%7C+LGPD" alt="Typing SVG" />
